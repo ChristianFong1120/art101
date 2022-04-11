@@ -1,0 +1,27 @@
+h1{
+  color: red;
+  font-size: 200%
+}
+body{
+  background-color: beige;
+}
+
+#heading{
+  font-style: oblique;
+  padding-left: 870px;
+}
+#chrisImage{
+    width: 300px;
+    margin-left: 100px;
+    height: auto;
+}
+#Chris{
+    padding-left: 600px;
+    width: 500px;
+    margin-left: 100px;
+
+  }
+#border{
+  border: solid black;
+  border-radius: 15px;
+}
