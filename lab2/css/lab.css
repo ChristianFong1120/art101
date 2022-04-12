@@ -1,6 +1,7 @@
 h1{
   color: red;
-  font-size: 200%
+  font-size: 100px
+
 }
 body{
   background-color: beige;
@@ -16,12 +17,29 @@ body{
     height: auto;
 }
 #Chris{
-    padding-left: 600px;
+    padding-left: 800px;
     width: 500px;
     margin-left: 100px;
 
-  }
+}
+
+#Mike{
+  padding-left: 800px;
+  width: 500px;
+  margin-left: 100px;
+}
+
+#mikeImage{
+    width: 300px;
+    margin-left: 100px;
+    height: auto;
+}
 #border{
   border: solid black;
   border-radius: 15px;
+}
+
+#border2{
+  border: dotted red;
+
 }
