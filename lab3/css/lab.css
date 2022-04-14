@@ -1,0 +1,35 @@
+h1{
+  color: white;
+  font-size: 100px;
+  font-style: italic;
+  padding-left: 500px;
+  font-family: "Arial";
+  border: solid black;
+  border-radius: 15px;
+}
+
+body{
+  background-color: 	#A9A9A9;
+}
+h4{
+  font-size: 30px;
+  font-style: oblique;
+
+}
+
+#info{
+  padding-left: 500px;
+  width: 1000px;
+
+
+}
+
+#caption{
+  padding-left: 650px;
+  font-style: italic;
+}
+
+#pic{
+  padding-left: 550px;
+  width: 700px;
+}
