@@ -22,7 +22,7 @@
 
 				</div>
 				<br>
-				<div id = pseudo>
+				<div class = pseudo>
 				<pre><code>
 					Grab steak from fridge
 					Pat dry steak
@@ -36,8 +36,30 @@
 					let steak rest for 5-10 minutes
 				</pre></code>
 			</div>
-				<div id = caption>
+				<div class = caption>
 					<p> Above is the result of our pseudocode for cooking a steak. </p>
 				</div>
+				<div class = pseudo>
+					<pre><code>
+					is_prime(modulus n, iterations)
+					Write n - 1=2^s * r such that r is odd
+					For iteration from 1 to iterations
+						Val = random num in range (2, n - 2)
+						Y = pow_mod(val, r, n)
+						If y isn't 1 or n - 1
+							J = 1
+							While j is less than  s - 1 and y is not n - 1
+							Do pow_mod(y, 2, n) for y
+							If y is 1
+								It is not prime
+							Inc j by 1
+						If y is not n - 1
+							It is not prime
+					If it makes it out of test, it is prime
+					</div>
+					</pre></code>
+					<div class = caption>
+						<p> Above is other pseduo code Chrstian has done in the past. The above is for determining primality of large (greater than 64 bit) integers imported from the gmp library in C. </p>
+					</div>
 </body>
 </html>
