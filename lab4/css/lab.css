@@ -1,0 +1,39 @@
+h1{
+  color: white;
+  font-size: 100px;
+
+  padding-left: 500px;
+  font-family: "Courier New";
+  border: solid black;
+  border-radius: 15px;
+}
+
+body{
+  background-color: LightCoral;
+}
+h4{
+  font-size: 30px;
+  font-style: oblique;
+  font-family: cursive;
+
+}
+
+#info{
+  padding-left: 500px;
+  width: 1000px;
+
+
+}
+#pseudo{
+  padding-left: 500px;
+}
+
+#caption{
+  padding-left: 700px;
+  font-style: italic;
+}
+
+#pic{
+  padding-left: 550px;
+  width: 700px;
+}
