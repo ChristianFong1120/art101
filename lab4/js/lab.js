@@ -1,6 +1,6 @@
 // Summary.     Pesudocode for cooking a steak.
 // Description. This file contains pesudocode for cooking a steak
-// @link
+// @link        https://christianfong1120.github.io/art101/lab4/index.html
 // @file        lab4/js/lab4.js
 // @author      Christian Fong, Michael Riley
 // @since       4/18/22
