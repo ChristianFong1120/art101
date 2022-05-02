@@ -1,0 +1,53 @@
+h3{
+  color: black;
+  font-size: 50px;
+
+  font-family: "DejaVu Sans Mono";
+  text-align: center;
+
+}
+
+body{
+  background-color: burlywood;
+}
+
+#content{
+  border: dotted white;
+  border-radius: 15px;
+  margin:auto;
+  width: 600px;
+
+}
+
+h4{
+  font-size: 30px;
+
+  font-family: Rockwell;
+}
+
+p{
+  width: 500px;
+}
+
+#info{
+  padding-left: 20px;
+  width: 1000px;
+}
+
+
+#caption{
+  margin:auto;
+  font-style: italic;
+  width: 600px;
+  padding-left: 20px;
+}
+
+#code{
+
+  padding-left: 20px ;
+}
+
+#pic{
+  width: 560px;
+  text-align: center;
+}
