@@ -2,17 +2,17 @@ h3{
   color: black;
   font-size: 50px;
 
-
+  font-family: "Monaco";
   text-align: center;
 
 }
 
 body{
-  background-color: LavenderBlush;
+  background-color: Bisque;
 }
 
 #content{
-  border: solid red;
+  border: solid black;
   border-radius: 15px;
   margin:auto;
   width: 600px;
