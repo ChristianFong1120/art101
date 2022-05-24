@@ -25,5 +25,5 @@ function sortingHat(str){
 
 $("#my-button").click(function(){
     text = "<p><b>The sorting hat has placed you in " + sortingHat($("input").val()) +  "</b></p>";
-    $("#output").html(text);
+    $("#output2").html(text);
 })
