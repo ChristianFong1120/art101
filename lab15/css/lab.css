@@ -1,0 +1,60 @@
+h3{
+  color: black;
+  font-size: 50px;
+
+  font-family: "Monaco";
+  text-align: center;
+
+}
+
+body{
+  background-color: Azure;
+}
+
+#content{
+  border: dotted black;
+  border-radius: 15px;
+  margin:auto;
+  width: 600px;
+
+}
+
+#output{
+  border: dotted black;
+  border-radius: 15px;
+  margin:auto;
+  width: 500px;
+}
+
+h4{
+  font-size: 30px;
+
+  font-family: Rockwell;
+}
+
+p{
+  width: 500px;
+}
+
+#info{
+  padding-left: 20px;
+  width: 1000px;
+}
+
+
+#caption{
+  margin:auto;
+  font-style: italic;
+  width: 600px;
+  padding-left: 20px;
+}
+
+#code{
+
+  padding-left: 20px ;
+}
+
+#pic{
+  width: 560px;
+  text-align: center;
+}
