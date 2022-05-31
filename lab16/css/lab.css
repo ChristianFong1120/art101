@@ -1,0 +1,70 @@
+h3{
+  color: black;
+  font-size: 50px;
+
+  font-family: "Copperplate";
+  text-align: center;
+
+}
+
+body{
+  background-color: AntiqueWhite;
+}
+
+#content{
+  border: solid Aquamarine;
+  border-radius: 15px;
+  margin:auto;
+  width: 600px;
+
+}
+
+#output{
+  text-align: center;
+  margin:auto;
+  width: 500px;
+}
+
+#title{
+  text-align: center;
+}
+
+
+#image{
+  text-align: center;
+
+
+}
+
+h4{
+  font-size: 30px;
+
+  font-family: Rockwell;
+}
+
+p{
+  width: 500px;
+}
+
+#info{
+  padding-left: 20px;
+  width: 1000px;
+}
+
+
+#caption{
+  margin:auto;
+  font-style: italic;
+  width: 600px;
+  padding-left: 20px;
+}
+
+#code{
+
+  padding-left: 20px ;
+}
+
+#pic{
+  width: 560px;
+  text-align: center;
+}
